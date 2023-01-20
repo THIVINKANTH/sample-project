@@ -1,0 +1,23 @@
+#center
+{
+    background-image: linear-gradient(yellow,rgb(26, 0, 128));
+}
+#center1
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 100px;
+
+}
+#center2
+{
+    font-weight: bolder;
+    font-family: fantasy;
+    font-style: italic;
+    background-image: linear-gradient(green,rgb(19, 7, 239));
+    -webkit-background-clip: text;
+    color: transparent;
+    text-decoration: underline blue;
+}
